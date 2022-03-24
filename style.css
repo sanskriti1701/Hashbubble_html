@@ -1,0 +1,16 @@
+.rounded-sq {
+    border-radius: 30px;
+  }
+  .rounded-sm {
+    border-radius: 10px;
+  }
+  .text-grey {
+    color: #635454;
+  }
+  .icons {
+    width: 20px;
+    height: 20px;
+  }
+  .margin-max {
+    margin: 150px 0;
+  }
